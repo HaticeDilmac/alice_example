@@ -20,3 +20,11 @@ This Flutter project is an application that uses Alice to monitor HTTP requests.
    ```bash
    git clone https://github.com/username/projectname.git
 ```
+## ScreenShot  
+
+<img src="https://github.com/HaticeDilmac/alice_example/assets/100489350/b9648ded-e368-4af4-80e6-2fe8f2fd748a" width="200" height="400">  
+<img src="https://github.com/HaticeDilmac/alice_example/assets/100489350/364497ac-5633-4207-a73f-9567d75af49f" width="200" height="400">  
+<img src="https://github.com/HaticeDilmac/alice_example/assets/100489350/86a4680d-51c5-4ad1-b449-57ea7991c5a5" width="200" height="400"> 
+<img src="https://github.com/HaticeDilmac/alice_example/assets/100489350/02ded7d2-c3ca-4e5a-999b-9341d7f8303a" width="200" height="400"> 
+<img src="https://github.com/HaticeDilmac/alice_example/assets/100489350/c09c52f2-5a6a-4152-a4b7-161bd0765e95" width="200" height="400">
+<img src="https://github.com/HaticeDilmac/alice_example/assets/100489350/f82540d8-120d-4ba8-ab8b-fbe4df0b867a" width="200" height="400"> 
