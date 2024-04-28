@@ -1,16 +1,22 @@
-# alice_example
+# Alice Example
 
-A new Flutter project.
 
-## Getting Started
+### İngilizce README
 
-This project is a starting point for a Flutter application.
+```
+# HTTP Monitoring App with Alice
 
-A few resources to get you started if this is your first Flutter project:
+This Flutter project is an application that uses Alice to monitor HTTP requests. The application makes various HTTP requests (GET, POST, PUT, DELETE) with Dio and uses Alice to monitor and view these requests.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Features
+- HTTP request monitoring
+- Viewing HTTP requests with Alice
+- Making HTTP requests with Dio
+- Supports GET, POST, PUT, DELETE request types
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation
+1. Install Flutter and Dart SDKs.
+2. Clone this project from GitHub:
+   ```bash
+   git clone https://github.com/username/projectname.git
+```
